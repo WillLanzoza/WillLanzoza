@@ -20,7 +20,7 @@ iOS Software Engineer with a passion for creating innovative solutions and excep
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-#
+---
 
 ### 📊 Stats
 
@@ -34,3 +34,5 @@ iOS Software Engineer with a passion for creating innovative solutions and excep
   Currently, I am pursuing a degree in Software Development at Brigham Young University, where I am acquiring strong expertise in designing and creating mobile applications. Throughout my first year of professional experience, I have taken on challenging projects and collaborated closely with diverse teams to design and develop high-performance native iOS applications.
 
 My main focus centers around crafting intuitive and scalable applications, utilizing Swift as the programming language, and leveraging advanced tools and frameworks like Xcode and SwiftUI. Moreover, I have gained valuable experience in implementing APIs, integrating cloud services, and troubleshooting technical problems.
+
+
